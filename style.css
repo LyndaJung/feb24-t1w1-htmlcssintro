@@ -1,0 +1,32 @@
+h3 {
+    color:red;
+    background-color: plum;
+}
+
+#bananas {
+    color: cornflowerblue;
+}
+
+.coolClass {
+    color:aliceblue
+}
+
+h1 {
+    color: blue;
+    background-color: #ffb700
+}
+
+h1 {
+    color:#3fb9b7
+}
+
+li {
+    background-color: darkgreen;
+}
+li:nth-child(3n) {
+    background-color: deeppink;
+}
+
+li:nth-child(even){
+    background-color: lightsteelblue;
+}
